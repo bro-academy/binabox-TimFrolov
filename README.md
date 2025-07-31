@@ -1,1 +1,3 @@
-# binabox-TimFrolov
+Binabox
+Student: Tim
+Mentor: Vadzim
